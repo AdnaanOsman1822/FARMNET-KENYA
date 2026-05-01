@@ -1,0 +1,37 @@
+<?php
+session_start();
+require_once("../classes/autoload.php");
+$DB = new Database();
+
+if (!isset($_SESSION['userid']) || $_SESSION['role'] !== 'admin') {
+    header("Location: ../login.php");
+    exit;
+}
+
+$target_id = $_POST['userid'] ?? null;
+if (!$target_id || !is_numeric($target_id)) {
+    echo "Invalid user ID.";
+    exit;
+}
+
+// Don't allow admin to suspend themselves
+if ($_SESSION['userid'] == $target_id) {
+    echo "You cannot suspend yourself.";
+    exit;
+}
+
+// Fetch current suspend status
+$user = $DB->read("SELECT suspended FROM users WHERE userid = :userid LIMIT 1", ['userid' => $target_id]);
+if (!$user) {
+    echo "User not found.";
+    exit;
+}
+$new_status = $user[0]->suspended ? 0 : 1;
+
+$DB->write("UPDATE users SET suspended = :s WHERE userid = :userid", [
+    's' => $new_status,
+    'userid' => $target_id
+]);
+
+header("Location: ../admin/view_user.php?id=$target_id");
+exit;

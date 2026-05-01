@@ -1,0 +1,111 @@
+Attempting DB update for success:
+Checkout ID: ws_CO_270720252006490704735352
+Receipt: TGR8RPUZJW
+Confirmed At: 2025-07-27 19:07:29
+Attempting DB update for success:
+Checkout ID: ws_CO_270720252017318704735352
+Receipt: TGR1RS64BF
+Confirmed At: 2025-07-27 19:17:38
+✅ DB update SUCCESS
+❌ Payment failed or cancelled. Checkout ID: ws_CO_270720252018236704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_270720252022306704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_270720252022513704735352
+✅ Marked as failed in DB
+Attempting DB update for success:
+Checkout ID: ws_CO_270720252024120704735352
+Receipt: TGR4RTMRPO
+Confirmed At: 2025-07-27 19:24:20
+✅ DB update SUCCESS
+Attempting DB update for success:
+Checkout ID: ws_CO_270720252033095704735352
+Receipt: TGR9RVJHR3
+Confirmed At: 2025-07-27 19:33:17
+✅ DB update SUCCESS
+❌ Payment failed or cancelled. Checkout ID: ws_CO_300720252005276723814320
+✅ Marked as failed in DB
+Attempting DB update for success:
+Checkout ID: ws_CO_300720252006257704735352
+Receipt: TGU47D0YBE
+Confirmed At: 2025-07-30 19:06:45
+✅ DB update SUCCESS
+Attempting DB update for success:
+Checkout ID: ws_CO_060820252231197704735352
+Receipt: TH608ZNKJA
+Confirmed At: 2025-08-06 21:31:25
+✅ DB update SUCCESS
+❌ Payment failed or cancelled. Checkout ID: ws_CO_060820252239033704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_060820252239306704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_060820252240014704735352
+✅ Marked as failed in DB
+Attempting DB update for success:
+Checkout ID: ws_CO_060820252240332704735352
+Receipt: TH6890MEIU
+Confirmed At: 2025-08-06 21:40:44
+✅ DB update SUCCESS
+Attempting DB update for success:
+Checkout ID: ws_CO_070820251447270704735352
+Receipt: TH72BETIDW
+Confirmed At: 2025-08-07 13:47:34
+✅ DB update SUCCESS
+❌ Payment failed or cancelled. Checkout ID: ws_CO_090820251109393704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_090820251110083704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_090820251111042704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_090820251111479704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_090820251112145704735352
+✅ Marked as failed in DB
+Attempting DB update for success:
+Checkout ID: ws_CO_090820251112365704735352
+Receipt: TH92KSVWRY
+Confirmed At: 2025-08-09 10:12:49
+✅ DB update SUCCESS
+❌ Payment failed or cancelled. Checkout ID: ws_CO_110820251510293704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_110820251511325704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_110820251512532704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_110820251513452704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_110820251515089704735352
+✅ Marked as failed in DB
+Attempting DB update for success:
+Checkout ID: ws_CO_110820251515386704735352
+Receipt: THB3VRMQIJ
+Confirmed At: 2025-08-11 14:15:44
+✅ DB update SUCCESS
+Attempting DB update for success:
+Checkout ID: ws_CO_110820251810141710645806
+Receipt: THB8WPD9OK
+Confirmed At: 2025-08-11 17:10:27
+✅ DB update SUCCESS
+❌ Payment failed or cancelled. Checkout ID: ws_CO_130820250012125704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_130820250012522704735352
+✅ Marked as failed in DB
+❌ Payment failed or cancelled. Checkout ID: ws_CO_130820250013117704735352
+✅ Marked as failed in DB
+Attempting DB update for success:
+Checkout ID: ws_CO_130820250013277704735352
+Receipt: THD14DPXM9
+Confirmed At: 2025-08-12 23:13:40
+✅ DB update SUCCESS
+Attempting DB update for success:
+Checkout ID: ws_CO_130820251226505746599292
+Receipt: THD05WMO0C
+Confirmed At: 2025-08-13 11:27:14
+✅ DB update SUCCESS
+❌ Payment failed or cancelled. Checkout ID: ws_CO_130820251333222721580408
+✅ Marked as failed in DB
+Attempting DB update for success:
+Checkout ID: ws_CO_130820251334591704735352
+Receipt: THD2682272
+Confirmed At: 2025-08-13 12:35:08
+✅ DB update SUCCESS

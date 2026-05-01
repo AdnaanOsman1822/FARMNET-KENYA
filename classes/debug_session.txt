@@ -1,0 +1,2165 @@
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+)
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+    [error] => Missing payment data.
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [error] => Missing payment data.
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+    [error] => Missing payment data.
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [error] => Missing payment data.
+    [flash] => Thank you for rating the service!
+)
+Setting userid: 3479749285
+Session after setting:
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Setting userid: 3479749285
+Session after setting:
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [flash] => Thank you for rating the service!
+)
+Setting userid: 92090
+Session after setting:
+Array
+(
+    [userid] => 92090
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 92090
+)
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+)
+Session on dashboard (MISSING):
+Array
+(
+    [userid] => 
+    [role] => 
+)
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+    [role] => 
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => 
+)
+Session on dashboard (MISSING):
+Array
+(
+    [userid] => 
+    [role] => 
+)
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [flash] => Thank you for rating the service!
+)
+Setting userid: 3479749285
+Session after setting:
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Setting userid: 3479749285
+Session after setting:
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 3479749285
+Session after setting:
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 3101971
+Session after setting:
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Setting userid: 8285454232
+Session after setting:
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 09540628
+Session after setting:
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Setting userid: 3101971
+Session after setting:
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Setting userid: 8285454232
+Session after setting:
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Setting userid: 09540628
+Session after setting:
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Setting userid: 3101971
+Session after setting:
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Setting userid: 09540628
+Session after setting:
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Setting userid: 8285454232
+Session after setting:
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Setting userid: 3101971
+Session after setting:
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
+Setting userid: 09540628
+Session after setting:
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 09540628
+    [role] => agronomist
+)
+Setting userid: 3101971
+Session after setting:
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Setting userid: 8285454232
+Session after setting:
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+    [payment_data] => Array
+        (
+            [request_id] => 11
+            [amount] => 1.00
+            [agronomist_id] => 3101971
+        )
+
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 0003612084
+Session after setting:
+Array
+(
+    [userid] => 0003612084
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 0003612084
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 0003612084
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+    [payment_data] => Array
+        (
+            [request_id] => 11
+            [amount] => 1.00
+            [agronomist_id] => 3101971
+        )
+
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+    [payment_data] => Array
+        (
+            [request_id] => 11
+            [amount] => 1.00
+            [agronomist_id] => 3101971
+        )
+
+)
+Setting userid: 3101971
+Session after setting:
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Setting userid: 8285454232
+Session after setting:
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3101971
+    [role] => agronomist
+)
+Setting userid: 8285454232
+Session after setting:
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 8285454232
+    [role] => farmer
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 4276
+Session after setting:
+Array
+(
+    [userid] => 4276
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 4276
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 4276
+    [role] => agronomist
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Setting userid: 69466
+Session after setting:
+Array
+(
+    [userid] => 69466
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 69466
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 4276
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 4276
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 69466
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 4276
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 4276
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 4276
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 4276
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 4276
+    [role] => agronomist
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 4276
+    [role] => agronomist
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 634433
+Session after setting:
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 934195
+Session after setting:
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 634433
+Session after setting:
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 221341
+Session after setting:
+Array
+(
+    [userid] => 221341
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 221341
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 221341
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 221341
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 221341
+    [role] => farmer
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 634433
+Session after setting:
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
+Setting userid: 3479749285
+Session after setting:
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 634433
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 3479749285
+    [role] => farmer
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 07294321
+Session after setting:
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 934195
+Session after setting:
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Setting userid: 934195
+Session after setting:
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 07294321
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 934195
+    [role] => farmer
+)
+Setting userid: 6881303be0150
+Session after setting:
+Array
+(
+    [userid] => 6881303be0150
+    [role] => admin
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 4263056727
+Session after setting:
+Array
+(
+    [userid] => 4263056727
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 4263056727
+    [role] => farmer
+)
+Setting userid: 0170
+Session after setting:
+Array
+(
+    [userid] => 0170
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 0170
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 0170
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 0170
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 0170
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 0170
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 0170
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 0170
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 0170
+    [role] => agronomist
+)
+Setting userid: 4263056727
+Session after setting:
+Array
+(
+    [userid] => 4263056727
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 4263056727
+    [role] => farmer
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 821306784
+Session after setting:
+Array
+(
+    [userid] => 821306784
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 821306784
+    [role] => farmer
+)
+Setting userid: 589700
+Session after setting:
+Array
+(
+    [userid] => 589700
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 589700
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 589700
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 589700
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 821306784
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 589700
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 589700
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 821306784
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 821306784
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 821306784
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Session on dashboard (MISSING):
+Array
+(
+)
+Setting userid: 1177339
+Session after setting:
+Array
+(
+    [userid] => 1177339
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 1177339
+    [role] => agronomist
+)
+Setting userid: 077890
+Session after setting:
+Array
+(
+    [userid] => 077890
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 077890
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 1177339
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 1177339
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 1177339
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 1177339
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 077890
+    [role] => farmer
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 077890
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 1177339
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 1177339
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 1177339
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 1177339
+    [role] => agronomist
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 077890
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 077890
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
+Session on dashboard (OK):
+Array
+(
+    [userid] => 077890
+    [role] => farmer
+    [flash] => Thank you for rating the service!
+)
